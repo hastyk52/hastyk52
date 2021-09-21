@@ -7,6 +7,10 @@
 <a href="mailto:keanu.hasty@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.linkedin.com/in/keanu-hasty/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
 
 <!--
 **hastyk52/hastyk52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
