@@ -1,4 +1,12 @@
-### Hi there 👋
+### Keanu Hasty
+
+- Currently open to work
+- I'm working on a Asteroids remake in my spare time
+- I love learning, expanding my tech stack, and working on new things. If you want reach me message me on linkedin or send me an email.
+
+<a href="mailto:keanu.hasty@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 
 <!--
 **hastyk52/hastyk52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
